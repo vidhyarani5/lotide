@@ -1,5 +1,5 @@
 
-/ FUNCTION IMPLEMENTATION
+// FUNCTION IMPLEMENTATION
 const sum = function(a, b) { 
   return a + b;
 }
