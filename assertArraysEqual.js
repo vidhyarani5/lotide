@@ -10,5 +10,4 @@ function assertArraysEqual(actual, expected) {
     console.log('Assertion Failed --> Expected "' + expected + '", but send "' + actual + '"');
   }};
 
-  assertArraysEqual([1, 2, 3], [1,2,3]);
-  assertArraysEqual(["1", "2", "3"], [1, 2, "3"]);
+  module.exports = assertArraysEqual;
