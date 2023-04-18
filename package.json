@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@pinumalla5/lotide",
   "version": "1.0.0",
-  "main": "assertAdd.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -12,14 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/vidhyarani5/lotide.git"
   },
-  "author": "",
+  "author": "pinumalla5",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vidhyarani5/lotide/issues"
   },
   "homepage": "https://github.com/vidhyarani5/lotide#readme",
   "keywords": [],
-  "description": "",
+  "description": "Lotide Project",
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^9.2.2"
